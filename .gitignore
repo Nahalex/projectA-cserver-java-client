@@ -1,0 +1,13 @@
+# Java
+java-client/out/
+java-client/.idea/
+*.class
+
+# C
+c-server/*.o
+c-server/a.out
+
+# Allgemein
+.DS_Store
+*.log
+.vs/
